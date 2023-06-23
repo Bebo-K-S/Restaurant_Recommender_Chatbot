@@ -66,7 +66,7 @@ The user goes into multiple paths depending on his/her input. If the user inputs
   - Set the basic rules of the chatbot and created the rules variant.
   - Created the “lexString” function with all of its helper functions.
   - Created the “printResponse” function.
-  - Founded the “generate_response” function rules and way of asking the user specific questions and then decide on which path will they go through.
+  - Created the “generate_response” function rules and way of asking the user specific questions and then decide on which path will they go through.
   - Created the building blocks of the chatbot including its rules, path, greetings, etc.
 
 - Omar Elabasery:
