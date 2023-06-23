@@ -62,10 +62,11 @@ The user goes into multiple paths depending on his/her input. If the user inputs
 
 - Abdulrahman Khaled:
   - Created the “Dictionary.csv” file.
-  -	Created the functions that map the “Dictionary.csv” file data to suitable data structures that will generate personalized responses.
-  -	Set the basic rules of the chatbot and created the rules variant.
-  -	Created the “lexString” function with all of its helper functions.
-  -	Created the “printResponse” function.
+  - Created the functions that map the “Dictionary.csv” file data to suitable data structures that will generate personalized responses.
+  - Set the basic rules of the chatbot and created the rules variant.
+  - Created the “lexString” function with all of its helper functions.
+  - Created the “printResponse” function.
+  - Founded the “generate_response” function rules and way of asking the user specific questions and then decide on which path will they go through.
   - Created the building blocks of the chatbot including its rules, path, greetings, etc.
 
 - Omar Elabasery:
@@ -76,11 +77,11 @@ The user goes into multiple paths depending on his/her input. If the user inputs
 
 - Ahmed Yasser:
   - Updated the “Dictionary.csv” file.
-  -	Modularized the main source file to separate “.ml” files.
-  -	Updated the rules to be of type options.
-  -	Created the “resultArray” to help store all user preferences to be able to generate accurate responses.
-  -	Created the “generate_response” function that will ask the user specific questions, and then, decide on which path he/she will go through.
-  -	Created the helper functions in the “generate_response” function.
+  - Modularized the main source file to separate “.ml” files.
+  - Updated the rules to be of type options.
+  - Created the “resultArray” to help store all user preferences to be able to generate accurate responses.
+  - Updated the “generate_response” function that will ask the user specific questions, and then, decide on which path he/she will go through.
+  - Created the helper functions in the “generate_response” function.
 
 
 # Demo Video
