@@ -1,4 +1,4 @@
-# Food Recommending Chatbot
+# Restaurant Recommender Chatbot
 Mr. Hungry is a task-oriented food recommending chatbot that is designed to help users find the perfect meal based on their preferences and dietary restrictions. Whether you are looking for a quick snack or a full meal, Mr. Hungry can help you find the perfect dish in no time.
 
 ## Features
